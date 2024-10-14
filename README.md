@@ -1,153 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mostapha EL ANSARI - Profile</title>
-    <style>
-        /* Light Mode Styles */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
+<h1 align="center">Hi 👋, I'm EL ANSARI Mostapha</h1>
+<h3 align="center">
+  My enthusiasm centers around artificial intelligence, specifically within the realm of machine learning, where I find fascination in both the underlying mathematics and the amalgamation of managerial techniques with engineering. Continuously, I am exploring fresh opportunities to hone my technical skills and gain practical industry experience. As a young engineer, my goal is to contribute to innovative and ambitious projects.
+</h3>
 
-        header, footer {
-            text-align: center;
-            padding: 20px;
-            background-color: #2c3e50;
-            color: white;
-        }
+- 🔭 I’m currently working on **Text summarization**
 
-        header h1 {
-            margin: 0;
-        }
+- 🌱 I’m currently learning **Javascript, React, C++**
 
-        h3 {
-            text-align: center;
-        }
+- 📫 How to reach me **elansarimostapha011@gmail.com**
 
-        .container {
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 20px;
-        }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mostapha-el-ansari" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/mostapha-el-ansari-2000" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/mostapha_el_ansari" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
 
-        section {
-            background-color: white;
-            margin: 20px 0;
-            padding: 20px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-        }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
-        /* Dark Mode Styles */
-        @media (prefers-color-scheme: dark) {
-            body {
-                background-color: #121212;
-                color: #e0e0e0;
-            }
-            
-            section {
-                background-color: #333;
-                color: #e0e0e0;
-            }
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostaphaelansari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mostapha's top languages" /></p>
 
-            header, footer {
-                background-color: #1c1c1c;
-                color: #e0e0e0;
-            }
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostaphaelansari&show_icons=true&locale=en&theme=dark" alt="Mostapha's GitHub stats" /></p>
 
-            h3 {
-                color: #ffcc00;
-            }
-        }
-
-        a {
-            color: #3498db;
-        }
-
-        /* Dark Mode Link Color */
-        @media (prefers-color-scheme: dark) {
-            a {
-                color: #74b9ff;
-            }
-        }
-
-        /* Icons and Tools Section */
-        .social-icons img, .languages-tools img {
-            width: 40px;
-            height: 40px;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
-
-<header>
-    <h1>Hi 👋, I'm EL ANSARI Mostapha</h1>
-    <p>My enthusiasm centers around artificial intelligence, specifically within machine learning...</p>
-</header>
-
-<div class="container">
-    <section>
-        <h3>Currently Working On</h3>
-        <p>🔭 I’m currently working on <strong>Text summarization</strong></p>
-    </section>
-
-    <section>
-        <h3>Currently Learning</h3>
-        <p>🌱 I’m currently learning <strong>Javascript, React, C++</strong></p>
-    </section>
-
-    <section>
-        <h3>How to Reach Me</h3>
-        <p>📫 <strong>Email:</strong> <a href="mailto:elansarimostapha011@gmail.com">elansarimostapha011@gmail.com</a></p>
-    </section>
-
-    <section>
-        <h3>Connect with Me</h3>
-        <p class="social-icons">
-            <a href="https://linkedin.com/in/mostapha el ansari" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
-            </a>
-            <a href="https://kaggle.com/mostapha el ansari 2000" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle">
-            </a>
-            <a href="https://www.leetcode.com/mostapha_el_ansari" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode">
-            </a>
-        </p>
-    </section>
-
-    <section>
-        <h3>Languages and Tools</h3>
-        <p class="languages-tools">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
-            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-        </p>
-    </section>
-
-    <section>
-        <h3>Stats</h3>
-        <p>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostaphaelansari&show_icons=true&locale=en" alt="GitHub Stats" />
-        </p>
-        <p>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&" alt="GitHub Streak" />
-        </p>
-    </section>
-</div>
-
-<footer>
-    <p>Connect with me on <a href="https://linkedin.com/in/mostapha-el-ansari">LinkedIn</a> | View my projects on <a href="https://github.com/mostaphaelansari">GitHub</a></p>
-</footer>
-
-</body>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=dark" alt="Mostapha's GitHub streak" /></p>
