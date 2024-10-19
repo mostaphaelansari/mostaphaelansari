@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EL ANSARI Mostapha</h1>
 <h3 align="center">
-  My enthusiasm centers around artificial intelligence, specifically within the realm of machine learning, where I find fascination in both the underlying mathematics and the amalgamation of managerial techniques with engineering. Continuously, I am exploring fresh opportunities to hone my technical skills and gain practical industry experience. As a young engineer, my goal is to contribute to innovative and ambitious projects.
+My enthusiasm centers around artificial intelligence, specifically within the realm of machine learning, where I find fascination in both the underlying mathematics and the amalgamation of managerial techniques with engineering. Continuously, I am exploring fresh opportunities to hone my technical skills and gain practical industry experience. As a young engineer, my goal is to contribute to innovative and ambitious projects.
 </h3>
 
 - 🔭 I’m currently working on **Text summarization**
