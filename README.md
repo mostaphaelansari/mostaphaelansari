@@ -1,57 +1,57 @@
-<h1 align="center">Hi 👋, I'm EL ANSARI Mostapha</h1>
-<h3 align="center">
-My enthusiasm centers around artificial intelligence, specifically within the realm of machine learning, where I find fascination in both the underlying mathematics and the amalgamation of managerial techniques with engineering. Continuously, I am exploring fresh opportunities to hone my technical skills and gain practical industry experience. As a young engineer, my goal is to contribute to innovative and ambitious projects.
-</h3>
+# Hi 👋, I'm EL ANSARI Mostapha
 
-- 🔭 I’m currently working on **Text summarization**
+## 🚀 About Me
+Passionate machine learning engineer with a deep enthusiasm for artificial intelligence and its transformative potential. My journey is driven by a unique blend of mathematical rigor, engineering prowess, and innovative problem-solving. I'm committed to leveraging cutting-edge technologies to develop intelligent solutions that make a meaningful impact.
 
-- 🌱 I’m currently learning **Javascript, React, C++**
+## 🔬 Professional Focus
+- **Current Focus**: Text Summarization and Natural Language Processing
+- **Learning Path**: Expanding skills in JavaScript, React, and C++
+- **Core Strengths**: Machine Learning, Python, Web Frameworks, Cloud Computing
 
-- 📫 How to reach me **elansarimostapha011@gmail.com**
+## 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mostapha-el-ansari" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/mostapha-el-ansari-2000" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/mostapha_el_ansari" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostaphaelansari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mostapha's top languages" /></p>
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostaphaelansari&show_icons=true&locale=en&theme=dark" alt="Mostapha's GitHub stats" /></p>
+### Web Technologies
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=dark" alt="Mostapha's GitHub streak" /></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostaphaelansari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostaphaelansari&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=dark" alt="GitHub Streak"/>
+</div>
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostapha-el-ansari)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mostapha-el-ansari-2000)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/mostapha_el_ansari)
+
+📫 **Email**: elansarimostapha011@gmail.com
+
+## 🔍 Interests
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Cloud Computing
+- Software Engineering
+
+*Continuously learning, innovating, and pushing the boundaries of technology* 🚀
