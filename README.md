@@ -70,12 +70,9 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 
 
 ### 🔥 Streak Stats
-<p align="center">
-  <a href="https://github.com/mostaphaelansari">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-  </a>
-</p>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari)](https://git.io/streak-stats)
+
+
 
 
 ## 🌱 Continuous Learning
