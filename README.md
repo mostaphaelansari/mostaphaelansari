@@ -68,9 +68,12 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostaphaelansari&theme=github_dark&hide_border=true" alt="Detailed GitHub Contributions Summary" />
 </p>
 
+
 ### 🔥 Streak Stats
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mostaphaelansari&theme=highcontrast" alt=" Streak Stats" />
+  </a>
 </p>
 
 </div>
