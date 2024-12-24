@@ -82,7 +82,7 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 </div>
 
 
-
+</div>
 
 ## 🌱 Continuous Learning
 - **Currently Reading**: "Deep Learning" by Ian Goodfellow
