@@ -5,7 +5,7 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 
 ## 🔬 Current Focus & Learning Journey
 - **Primary Focus**: Building and fine-tuning Large Language Models for specific domains
-- **Research Interests**: Transformer architectures, Few-shot learning, Model optimization
+- **Research Interests**: Transformer architectures, Few-shot learning, Model optimization.
 - **Learning Path**: Advanced MLOps practices, Production-grade ML systems
 - **Side Projects**: Contributing to open-source ML projects, Experimenting with state-of-the-art models
 
