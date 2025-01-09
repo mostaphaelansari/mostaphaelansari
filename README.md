@@ -3,11 +3,15 @@
 ## 🧠 Machine Learning Engineer & AI Enthusiast
 Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundamentals and hands-on experience in implementing deep learning solutions. Passionate about leveraging AI to solve real-world problems, with a particular focus on Natural Language Processing and Computer Vision applications. Currently exploring the fascinating world of Large Language Models and their practical applications.
 
+---
+
 ## 🔬 Current Focus & Learning Journey
 - **Primary Focus**: Building and fine-tuning Large Language Models for specific domains
 - **Research Interests**: Transformer architectures, Few-shot learning, Model optimization
 - **Learning Path**: Advanced MLOps practices, Production-grade ML systems
 - **Side Projects**: Contributing to open-source ML projects, Experimenting with state-of-the-art models
+
+---
 
 ## 🛠️ Technical Stack
 
@@ -38,7 +42,7 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 
 ---
 
-<img src="https://raw.githubusercontent.com/mostaphaelansari/mostaphaelansari/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/mostaphaelansari/mostaphaelansari/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -68,21 +72,10 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 
 <div align="center">
 
-### 🔁 Contribution Insights
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mostaphaelansari&show_icons=true&locale=en&theme=dark&hide=prs,issues&border_radius=10&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostaphaelansari&layout=compact&locale=en&theme=dark&border_radius=10&bg_color=0D1117&hide_border=true" alt="Most Used Languages" />
-</p>
-
-### 🔍 Profile Summary
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostaphaelansari&theme=github_dark&hide_border=true" alt="Detailed GitHub Contributions Summary" />
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=dark" alt="GitHub Streak" />
-</p>
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mostaphaelansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mostaphaelansari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaphaelansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
