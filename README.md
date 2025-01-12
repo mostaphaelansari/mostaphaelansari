@@ -42,7 +42,7 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 
 ---
 
-![Snake Animation](https://github.com/mostaphaelansari/mostaphaelansari/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
