@@ -85,7 +85,7 @@ Dedicated Machine Learning practitioner with a strong foundation in AI/ML fundam
 - **Currently Reading**: "Deep Learning" by Ian Goodfellow
 - **Online Courses**: Advanced MLOps on Coursera, Full Stack Deep Learning
 - **Technical Blogs**: Regular contributor on Medium about ML/AI topics
-- **Competitions**: Active participant in Kaggle competitions
+- **Competitions**: Active participant in Kaggle competitions and Devpost
 
 ---
 
