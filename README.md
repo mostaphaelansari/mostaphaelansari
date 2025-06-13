@@ -149,7 +149,7 @@ My approach to ML engineering is founded on continuous learning and adaptation. 
     <td width="50%">
       <h3>📖 Latest Reads</h3>
       <ul>
-        <li>"Deep Learning" by Ian Goodfellow, Yoshua Bengio, Aaron Courville</li>
+        <li>"Deep Learning " by Ian Goodfellow, Yoshua Bengio, Aaron Courville</li>
         <li>"Designing Machine Learning Systems" by Chip Huyen</li>
         <li>"Machine Learning Engineering" by Andriy Burkov</li>
         <li>"Building Machine Learning Pipelines" by Hannes Hapke & Catherine Nelson</li>
