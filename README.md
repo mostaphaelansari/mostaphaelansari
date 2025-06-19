@@ -95,7 +95,7 @@ Machine Learning Engineer specializing in the design and implementation of advan
       <ul>
         <li>Engineered novel embedding alignment mechanism between vision and text spaces</li>
         <li>Created synthetic training data to enhance generalization capability</li>
-        <li>Achieved 76% accuracy on zero-shot tasks, surpassing previous approaches</li>
+        <li>Achieved 76%  accuracy on zero-shot tasks, surpassing previous approaches</li>
       </ul>
       <p><b>Tech: CLIP, PyTorch, FastAPI, Docker</b></p>
     </td>
