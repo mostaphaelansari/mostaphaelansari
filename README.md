@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AI%20Engineering%20Redefined&fontSize=50&fontAlignY=40&desc=Mostapha%20El%20Ansari%20|%20ML%20Engineer%20&%20AI%20Researcher&descAlignY=55&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AI%20Engineering%20Redefined&fontSize=50&fontAlignY=40&desc=Mostapha%20El%20Ansari%20|%20Data%20Science%20Student%20&%20AI%20Researcher&descAlignY=55&animation=fadeIn)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostapha-el-ansari)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mostapha-el-ansari-2000)
