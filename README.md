@@ -4,7 +4,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mostapha-el-ansari-2000)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/mostaphaelansari)
 
-Machine Learning Engineer specializing in Large Language Models, NLP, and deep learning. Focused on building production-grade AI systems and understanding algorithms from first principles.
+Machine Learning Engineer student specializing in Large Language Models, NLP, and deep learning. Focused on building production-grade AI systems and understanding algorithms from first principles.
 
 ## Projects Portfolio
 
