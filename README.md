@@ -1,10 +1,13 @@
 # Mostapha El Ansari
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostapha-el-ansari)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mostapha-el-ansari-2000)
-[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/mostaphaelansari)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/mostaphaelansari)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mostapha00/)
-[![Deep-ml](https://img.shields.io/badge/Deep--ml-4B8BBE?style=flat-square&logoColor=white)](https://www.deep-ml.com/profile/X7vzzbDywCeTAD9r22Mbs7FiZ6j1)
+[![Deep-ML](https://img.shields.io/badge/Deep--ML-4B8BBE?style=flat-square&logoColor=white)](https://www.deep-ml.com/profile/X7vzzbDywCeTAD9r22Mbs7FiZ6j1)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mostaphaelansari)
+
 
 Machine Learning Engineer student specializing in Large Language Models, NLP, and deep learning. Focused on building production-grade AI systems and understanding algorithms from first principles.
 
