@@ -1,72 +1,171 @@
-# Mostapha El Ansari
+<div align="center">
 
+```
+███╗   ███╗ ██████╗ ███████╗████████╗ █████╗ ██████╗ ██╗  ██╗ █████╗
+████╗ ████║██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║  ██║██╔══██╗
+██╔████╔██║██║   ██║███████╗   ██║   ███████║██████╔╝███████║███████║
+██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔═══╝ ██╔══██║██╔══██║
+██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostapha-el-ansari)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mostapha-el-ansari-2000)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/mostaphaelansari)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mostapha00/)
-[![Deep-ML](https://img.shields.io/badge/Deep--ML-4B8BBE?style=flat-square&logoColor=white)](https://www.deep-ml.com/profile/X7vzzbDywCeTAD9r22Mbs7FiZ6j1)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mostaphaelansari)
+**`EL ANSARI`**
 
+*Machine Learning Engineer · LLM Systems · RAG Architectures · Deep Learning*
 
-Machine Learning Engineer student specializing in Large Language Models, NLP, and deep learning. Focused on building production-grade AI systems and understanding algorithms from first principles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostapha-el-ansari)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/mostaphaelansari)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mostapha-el-ansari-2000)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mostaphaelansari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://elansarimostapha.ai)
 
-## Projects Portfolio
+📍 Fez, Morocco &nbsp;·&nbsp; 📬 elansarimostapha011@gmail.com
 
-### RAG & LLM Systems
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [RAG-Project](https://github.com/mostaphaelansari/RAG-Project) | Complete RAG system for PDF Q&A with semantic search | LangChain, Local LLMs, Vector DB |
-| [LLM Document Q&A](https://github.com/mostaphaelansari/LLM-Powered-Document-Q-A-with-Llama-3.2) | Document analysis with LLAMA 3.2 | LLAMA 3.2, RAG, Gradio |
-| [Text-to-SQL](https://github.com/mostaphaelansari/Text-to-SQL-with-Deepseek) | Natural language to SQL converter | Deepseek, SQLite, Web App |
-
-### Educational & Research
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [ML/DL from Scratch](https://github.com/mostaphaelansari/ML-DL-Algorithms-from-scratch-using-numpy-) | Foundational ML/DL algorithms | NumPy |
-| [ML Papers Implementation](https://github.com/mostaphaelansari/ML-Papers-From-Scratch) | Research paper implementations | PyTorch, NumPy |
-
-### Applied ML Systems
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Semantic Book Recommender](https://github.com/mostaphaelansari/Semantic-Book-Recommender) | Content-based recommender with emotion filtering | LangChain, ChromaDB, Gradio |
-| [Image Augmentation App](https://github.com/mostaphaelansari/streamlit-image-augmentation-app) | Batch image augmentation tool | Streamlit, Computer Vision |
-
-## Tech Stack
-
-### ML/DL Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### Deployment & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-## Current Focus
-
-- Fine-tuning LLMs for specialized applications
-- Building scalable RAG systems
-- Multi-modal models (text, vision, audio)
-- Prompt engineering for zero/few-shot learning
-
-## Connect
-
-📧 elansarimostapha011@gmail.com  
-🌐 [elansarimostapha.ai](https://elansarimostapha.ai)
+</div>
 
 ---
-*Building intelligent systems that bridge research and production.*
+
+## `> whoami`
+
+I'm a Machine Learning Engineer who specializes in building **production LLM systems**, **RAG architectures**, and **deep learning research pipelines**. My obsession is the full ML stack — from the mathematical intuition behind an attention mechanism to a Kubernetes deployment that doesn't fall over at 3am.
+
+I believe in understanding things from first principles. I re-implement papers from scratch not because I have to, but because you can't truly use what you don't truly understand.
+
+> *"The goal is not to use the latest model. The goal is to solve the problem well."*
+
+---
+
+## `> currently_working_on`
+
+| Focus Area | Description |
+|---|---|
+| 🧠 **LLM Fine-tuning** | Adapting models via LoRA/QLoRA for domain-specific tasks with rigorous eval benchmarks |
+| 🔍 **Production RAG** | Retrieval pipelines that balance latency, accuracy, and cost — at scale |
+| 👁️ **Multimodal Systems** | Unified reasoning across text, vision, and audio modalities |
+| 📐 **First-Principles ML** | Re-implementing seminal papers to build genuine understanding |
+
+---
+
+## `> selected_projects`
+
+### 🗣️ Language & Retrieval
+
+<table>
+<tr>
+<td width="50%">
+
+**[RAG-Project](https://github.com/mostaphaelansari/RAG-Project)**
+
+End-to-end PDF Q&A system with semantic search and local inference. Runs **fully offline** — no API dependency, no data leaving your machine.
+
+`LangChain` `ChromaDB` `Local LLMs`
+
+</td>
+<td width="50%">
+
+**[LLM Document Q&A](https://github.com/mostaphaelansari/LLM-Powered-Document-Q-A-with-Llama-3.2)**
+
+Multi-document analysis pipeline powered by Llama 3.2. Handles context, summarization, and structured extraction across long documents.
+
+`LLAMA 3.2` `RAG` `Gradio`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Text-to-SQL](https://github.com/mostaphaelansari/Text-to-SQL-with-Deepseek)**
+
+Plain English → valid, optimized SQL via Deepseek. Schema-aware prompting + automatic error correction loop.
+
+`Deepseek` `SQLite` `Prompt Engineering`
+
+</td>
+<td width="50%">
+
+**[Semantic Book Recommender](https://github.com/mostaphaelansari/Semantic-Book-Recommender)**
+
+Content-based recommendation with **emotion-aware filtering** using embedding similarity over a curated vector store.
+
+`LangChain` `ChromaDB` `Gradio`
+
+</td>
+</tr>
+</table>
+
+### 🔬 Research Implementations
+
+<table>
+<tr>
+<td width="50%">
+
+**[ML Papers From Scratch](https://github.com/mostaphaelansari/ML-Papers-From-Scratch)**
+
+Faithful re-implementations of seminal papers: *Attention Is All You Need*, ResNet, BERT, and more. Built to understand, not just replicate.
+
+`PyTorch` `NumPy`
+
+</td>
+<td width="50%">
+
+**[ML/DL from Scratch](https://github.com/mostaphaelansari/ML-DL-Algorithms-from-scratch-using-numpy-)**
+
+Core algorithms — backprop, gradient descent, SVMs, decision trees — implemented with NumPy only. No black boxes. Ever.
+
+`NumPy`
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Tools & Applications
+
+**[Image Augmentation App](https://github.com/mostaphaelansari/streamlit-image-augmentation-app)** — Batch CV preprocessing with real-time preview, pipeline configuration, and bulk export. `Streamlit` `OpenCV`
+
+---
+
+## `> tech_stack`
+
+```python
+STACK = {
+    "LLMs & Fine-tuning" : ["PyTorch", "HuggingFace Transformers", "PEFT (LoRA/QLoRA)", "LangChain"],
+    "Vector & Retrieval"  : ["ChromaDB", "FAISS", "Semantic Search", "Embedding Models"],
+    "Classical ML"        : ["scikit-learn", "XGBoost", "NumPy", "Pandas", "statsmodels"],
+    "Computer Vision"     : ["OpenCV", "torchvision", "Albumentations"],
+    "MLOps & Infra"       : ["Docker", "Kubernetes", "FastAPI", "MLflow", "AWS", "GCP"],
+    "Languages"           : ["Python", "C++", "R", "SQL"],
+}
+```
+
+---
+
+## `> stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mostaphaelansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostaphaelansari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mostaphaelansari&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `> connect`
+
+I'm always open to discussing **ML research**, **production system design**, or just interesting problems worth solving.
+
+📬 **[elansarimostapha011@gmail.com](mailto:elansarimostapha011@gmail.com)**
+🌐 **[elansarimostapha.ai](https://elansarimostapha.ai)**
+
+<div align="center">
+
+---
+
+<sub>Built with intent · Deployed with care · Understood from first principles</sub>
+
+</div>
