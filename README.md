@@ -16,9 +16,7 @@
 
 ### About
 
-I build ML systems end-to-end — from the math in the paper to the deployment that doesn't wake you up at 3am. Not demos. Not notebooks. Production.
-
-I re-implement papers from scratch. Transformers, ResNet, BERT. Not to replicate — to own the understanding completely. There's no shortcut for that.
+Machine Learning Engineer passionate about Language Model, Computer Vision and software engineerin
 
 **Currently:**
 - Fine-tuning LLMs with LoRA/QLoRA for domain-specific tasks
