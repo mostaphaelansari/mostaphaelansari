@@ -27,16 +27,16 @@
 </a>
 </p>
 
-* 🤖 **ML Engineer** working on **LLMs, AI agents, and MLOps**: getting models out of notebooks and into production.
-* 📊 Currently building **[ScoreFlow](https://github.com/mostaphaelansari/ScoreFlow)**, a credit-risk scoring toolkit with reason codes, risk bands, and drift monitoring for regulated environments.
-* 🩺 Exploring **local agents that operate real infrastructure**: Kubernetes ([PodMedic](https://github.com/mostaphaelansari/PodMedic)), browsers, and code review, always with human-approval guardrails.
-* 🚀 Into **MLOps**: automated model promotion, Kubeflow pipelines, MLflow tracking, and CI/CD for models.
-* 🧠 Re-implementing **ML papers from scratch**, because using ≠ understanding.
-* 📍 Based in **Fez, Morocco**.
-* 💬 Open to chat about LLMs, agents, or MLOps. **[Email me](mailto:elansarimostapha011@gmail.com)**.
+* **ML Engineer** working on **LLMs, AI agents, and MLOps**: getting models out of notebooks and into production.
+* Currently building **[ScoreFlow](https://github.com/mostaphaelansari/ScoreFlow)**, a credit-risk scoring toolkit with reason codes, risk bands, and drift monitoring for regulated environments.
+* Exploring **local agents that operate real infrastructure**: Kubernetes ([PodMedic](https://github.com/mostaphaelansari/PodMedic)), browsers, and code review, always with human-approval guardrails.
+* Into **MLOps**: automated model promotion, Kubeflow pipelines, MLflow tracking, and CI/CD for models.
+* Re-implementing **ML papers from scratch**, because using ≠ understanding.
+* Based in **Fez, Morocco**.
+* Open to chat about LLMs, agents, or MLOps. **[Email me](mailto:elansarimostapha011@gmail.com)**.
 
 <details>
-<summary>📈 More stats</summary>
+<summary>More stats</summary>
 <br>
 
 <p align="center">
@@ -49,7 +49,7 @@
 ## Projects
 
 <table style="table-layout:fixed;width:100%">
-<tr><th colspan="3">🏗️ Production ML & MLOps</th></tr>
+<tr><th colspan="3">Production ML & MLOps</th></tr>
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/ScoreFlow">ScoreFlow</a><br/><sub>Credit-risk scoring with explainable decisions and PSI drift monitoring</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/ScoreFlow?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/LightGBM-black?style=flat-square"> <img src="https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikitlearn"> <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi"> <img src="https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions"></td></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/mlops-auto-model-promotion">MLOps Auto Model Promotion</a><br/><sub>Gated staging → production promotion with rollback and A/B serving</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/mlops-auto-model-promotion?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow"> <img src="https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikitlearn"> <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"> <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"></td></tr>
@@ -57,7 +57,7 @@
 </table>
 
 <table style="table-layout:fixed;width:100%">
-<tr><th colspan="3">🤖 AI Agents</th></tr>
+<tr><th colspan="3">AI Agents</th></tr>
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/PodMedic">PodMedic</a><br/><sub>Local agent that diagnoses and fixes failing Kubernetes pods</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/PodMedic?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes"> <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama"> <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"></td></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/Feature-to-Production-Autonomous-Flow">Diff-First Review Agent</a><br/><sub>Semantic diff analysis, risk scoring, and auto approve/block</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/Feature-to-Production-Autonomous-Flow?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/JSON_Schema-black?style=flat-square&logo=json"> <img src="https://img.shields.io/badge/GitLab_CI-black?style=flat-square&logo=gitlab"></td></tr>
@@ -65,7 +65,7 @@
 </table>
 
 <table style="table-layout:fixed;width:100%">
-<tr><th colspan="3">🧠 LLMs & RAG</th></tr>
+<tr><th colspan="3">LLMs & RAG</th></tr>
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/Optimization-and-Deployment-of-a-Retrieval-Augmented-Generation-RAG-System-">RAG System</a><br/><sub>Offline PDF Q&A with local inference, zero cloud dependency</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/Optimization-and-Deployment-of-a-Retrieval-Augmented-Generation-RAG-System-?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain"> <img src="https://img.shields.io/badge/ChromaDB-black?style=flat-square"> <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama"> <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit"> <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"></td></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/LLM-Powered-Document-Q-A-with-Llama-3.2">LLM Document Q&A</a><br/><sub>Multi-document reasoning on Llama 3.2</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/LLM-Powered-Document-Q-A-with-Llama-3.2?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Llama_3.2-black?style=flat-square&logo=meta"> <img src="https://img.shields.io/badge/Hugging_Face-black?style=flat-square&logo=huggingface"> <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain"></td></tr>
@@ -74,7 +74,7 @@
 </table>
 
 <table style="table-layout:fixed;width:100%">
-<tr><th colspan="3">🔬 Security & Research</th></tr>
+<tr><th colspan="3">Security & Research</th></tr>
 <tr><th width="40%">Title</th><th width="12%">Stars</th><th width="48%">Technologies</th></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/The-CV-Guardian-">CV Guardian</a> <a href="https://the-cv-guardian.vercel.app"><img src="https://img.shields.io/badge/Demo-black?style=flat-square&logo=vercel"></a><br/><sub>Scans résumés for malicious payloads and AI-generated text</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/The-CV-Guardian-?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs"> <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"> <img src="https://img.shields.io/badge/DeBERTa_v3-black?style=flat-square&logo=huggingface"> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"> <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"></td></tr>
 <tr><td><a href="https://github.com/mostaphaelansari/Markov-GNN-Dynamics">Markov-GNN Dynamics</a><br/><sub>GNN that learns diffusion transition rules on networks</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/mostaphaelansari/Markov-GNN-Dynamics?style=flat-square&labelColor=black"/></td><td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch"> <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy"> <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"></td></tr>
