@@ -9,8 +9,17 @@
 <a href="mailto:elansarimostapha011@gmail.com">
     <img src="https://img.shields.io/badge/Email-elansarimostapha011%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://github.com/mostaphaelansari?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white">
+<a href="https://linkedin.com/in/mostapha-el-ansari">
+    <img src="https://img.shields.io/badge/LinkedIn-mostapha--el--ansari-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://huggingface.co/mostaphaelansari">
+    <img src="https://img.shields.io/badge/Hugging_Face-mostaphaelansari-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+</a>
+<a href="https://kaggle.com/mostapha-el-ansari-2000">
+    <img src="https://img.shields.io/badge/Kaggle-mostapha--el--ansari--2000-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
+</a>
+<a href="https://medium.com/@mostaphaelansari">
+    <img src="https://img.shields.io/badge/Medium-@mostaphaelansari-12100E?style=flat-square&logo=medium&logoColor=white">
 </a>
 <br/>
 <a href="https://github.com/mostaphaelansari">
