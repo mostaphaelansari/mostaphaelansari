@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=Production+LLM+systems+that+hold+under+real+load.;RAG+pipelines+from+architecture+to+deployment.;Fine-tuning+LLMs+%E2%80%94+LoRA%2C+QLoRA%2C+domain+adaptation.;Re-implementing+papers+because+using+%E2%89%A0+understanding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=Production+LLM+systems+that+hold+under+real+load.;RAG+pipelines+from+architecture+to+deployment.;Agents+that+act+%E2%80%94+with+guardrails.;MLOps%3A+train%2C+promote%2C+serve%2C+monitor.;Re-implementing+papers+because+using+%E2%89%A0+understanding.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ### About
 
-Machine Learning Engineer passionate about Language Model, Computer Vision and software engineerin
+Machine Learning Engineer working on language models, computer vision, and the software engineering that gets them into production.
 
 **Currently:**
-- Fine-tuning LLMs with LoRA/QLoRA for domain-specific tasks
-- Architecting retrieval pipelines at scale
-- Multimodal systems
-- First-principles paper re-implementations
+- Building **ScoreFlow** — credit-risk scoring with explainable decisions and drift monitoring
+- Local AI agents that operate real infrastructure (Kubernetes, browsers, code review)
+- MLOps pipelines: automated model promotion, Kubeflow, MLflow
+- Fine-tuning LLMs with LoRA/QLoRA and first-principles paper re-implementations
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -31,7 +31,7 @@ Machine Learning Engineer passionate about Language Model, Computer Vision and s
 ┌─────────────────────────────┐
 │  mostapha@workstation:~$    │
 │  > location  : Fez, Morocco │
-│  > focus     : LLMs · RAG   │
+│  > focus     : LLMs · MLOps │
 │  > method    : from scratch │
 │  > status    : building ██▒ │
 └─────────────────────────────┘
@@ -55,14 +55,29 @@ Machine Learning Engineer passionate about Language Model, Computer Vision and s
 
 <br/>
 
+### Featured
+
 | # | Project | Category | Description | Stack |
 |---|---------|----------|-------------|-------|
-| 01 | 🔍 **RAG Pipeline** | `RAG` | Offline PDF Q&A with local inference. Air-gapped, zero cloud dependency. Semantic retrieval with tuned chunking, embedding model selection, and re-ranking. | LangChain · ChromaDB · FAISS · Ollama · FastAPI · Docker |
-| 02 | 📄 **LLM Document Q&A** | `LLM` | Multi-document reasoning on Llama 3.2. Handles heterogeneous formats, long-context windows, and cross-document synthesis without naive truncation. | Llama 3.2 · HuggingFace Transformers · LangChain · FastAPI |
-| 03 | 🗄️ **Text-to-SQL** | `NLP` | NL → production-grade SQL with self-correction loop. Schema-aware prompting, semantic error detection, handles aggregations and nested queries. | SQLCoder · LangChain · PostgreSQL · FastAPI · Docker |
-| 04 | 📚 **Semantic Book Recommender** | `NLP` | Embeddings + emotion-aware filtering. Captures semantic content, emotional tone, and thematic resonance separately — combined at query time. | Sentence-BERT · FAISS · Gradio · Pandas |
-| 05 | 🧠 **ML Papers From Scratch** | `Research` | Transformers, ResNet, BERT — implemented from equations, not checkpoints. Attention, positional encoding, residual connections, masked language modeling. | PyTorch · NumPy · Math |
-| 06 | ⚙️ **ML/DL From Scratch** | `ML` | Backprop, gradient descent, SVMs, decision trees, k-means — zero scikit-learn, zero autograd. If you can implement it from scratch, you understand it. | NumPy · Pure Math |
+| 01 | 📊 **[ScoreFlow](https://github.com/mostaphaelansari/ScoreFlow)** | `Credit Risk` | Credit-scoring toolkit for regulated environments. Trains and selects models on AUC/KS, then adds risk bands, reason codes, PSI drift monitoring, and HTML evaluation reports. Served via REST API or batch export. | Python · LightGBM · scikit-learn · FastAPI · pytest · GitHub Actions |
+| 02 | 🩺 **[PodMedic](https://github.com/mostaphaelansari/PodMedic)** | `Agents` | Local AI agent that watches a Kubernetes cluster, investigates failing pods, explains root causes, and proposes fixes. Remediation is gated behind human approval. No API keys, fully local. | Python · Kubernetes client · Ollama · kind |
+| 03 | 🛡️ **[CV Guardian](https://github.com/mostaphaelansari/The-CV-Guardian-)** | `Security · NLP` | Scans uploaded résumés for malicious links, injection payloads (SQL, XSS, prompt), embedded PDF scripts, and AI-generated text before they reach a hiring pipeline. [Live demo →](https://the-cv-guardian.vercel.app) | Node.js · Express · Flask · DeBERTa v3 · MongoDB · Docker |
+| 04 | 🔎 **[Diff-First Review Agent](https://github.com/mostaphaelansari/Feature-to-Production-Autonomous-Flow)** | `Agents · DevOps` | Autonomous code-review agent that analyzes diffs semantically, scores risk, and approves, blocks, or tags changes. Includes security regression and architecture-drift checks. | Python · JSON Schema · GitLab CI |
+| 05 | 🚀 **[MLOps Auto Model Promotion](https://github.com/mostaphaelansari/mlops-auto-model-promotion)** | `MLOps` | Full churn-model lifecycle: training with schema validation, gated staging → production promotion with rollback, and a serving API with auto-reload and A/B testing. | MLflow · scikit-learn · Flask · Docker Compose |
+| 06 | 🔍 **[RAG System](https://github.com/mostaphaelansari/Optimization-and-Deployment-of-a-Retrieval-Augmented-Generation-RAG-System-)** | `RAG` | Offline PDF Q&A with local inference and zero cloud dependency. Semantic retrieval over research papers with grounded answers, via CLI or web UI. | LangChain · ChromaDB · Ollama · Streamlit · Docker |
+
+### More
+
+| Project | Category | Description |
+|---------|----------|-------------|
+| 🌐 **[Bedrock Browser Agent](https://github.com/mostaphaelansari/browser-agent)** | `Agents` | Multi-agent orchestrator on Amazon Bedrock that routes tool calls to a Playwright browser agent. |
+| 💳 **[Kubeflow Fraud Detection](https://github.com/mostaphaelansari/Kubeflow-Pipelines-on-Kubernetes-Credit-Card-Fraud-Detection)** | `MLOps` | Four-stage Kubeflow pipeline (ingest → features → train → evaluate) on a local Kubernetes cluster. |
+| 🕸️ **[Markov-GNN Dynamics](https://github.com/mostaphaelansari/Markov-GNN-Dynamics)** | `Research` | Graph Neural Network that learns local transition rules of diffusion processes on networks. |
+| 📄 **[LLM Document Q&A](https://github.com/mostaphaelansari/LLM-Powered-Document-Q-A-with-Llama-3.2)** | `LLM` | Multi-document reasoning on Llama 3.2 across heterogeneous formats. |
+| 🗄️ **[Text-to-SQL](https://github.com/mostaphaelansari/Text2SQL)** | `NLP` | Natural language → SQL with schema-aware prompting and a self-correction loop. |
+| 📚 **[Semantic Book Recommender](https://github.com/mostaphaelansari/Semantic-Book-Recommender)** | `NLP` | Embeddings combined with emotion-aware filtering at query time. |
+
+> 🧠 Also building privately: **ML papers from scratch** (Transformers, ResNet, BERT from the equations) and **ML/DL algorithms in pure NumPy**, with no scikit-learn and no autograd.
 
 <br/>
 
@@ -82,6 +97,8 @@ Machine Learning Engineer passionate about Language Model, Computer Vision and s
 ![FAISS](https://img.shields.io/badge/FAISS-111?style=flat-square&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=flat-square&logo=scikit-learn&logoColor=F7931E)&nbsp;
 ![XGBoost](https://img.shields.io/badge/XGBoost-111?style=flat-square&logoColor=white)&nbsp;
+![LightGBM](https://img.shields.io/badge/LightGBM-111?style=flat-square&logoColor=white)&nbsp;
+![Ollama](https://img.shields.io/badge/Ollama-111?style=flat-square&logo=ollama&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-111?style=flat-square&logo=opencv&logoColor=5C3EE8)&nbsp;
 ![MLflow](https://img.shields.io/badge/MLflow-111?style=flat-square&logo=mlflow&logoColor=0194E2)
 
@@ -90,6 +107,8 @@ Machine Learning Engineer passionate about Language Model, Computer Vision and s
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=326CE5)&nbsp;
+![Kubeflow](https://img.shields.io/badge/Kubeflow-111?style=flat-square&logo=kubeflow&logoColor=4279F4)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=flat-square&logo=githubactions&logoColor=2088FF)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazon-aws&logoColor=FF9900)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-111?style=flat-square&logo=google-cloud&logoColor=4285F4)
 
@@ -98,6 +117,7 @@ Machine Learning Engineer passionate about Language Model, Computer Vision and s
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
 ![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=postgresql&logoColor=336791)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![R](https://img.shields.io/badge/R-111?style=flat-square&logo=r&logoColor=276DC3)
 
 </div>
@@ -114,7 +134,7 @@ Machine Learning Engineer passionate about Language Model, Computer Vision and s
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mostaphaelansari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5ff&fire=ff9900&currStreakLabel=00e5ff&sideLabels=888888&dates=555555" height="150"/>
+<img src="https://streak-stats.demolab.com?user=mostaphaelansari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5ff&fire=ff9900&currStreakLabel=00e5ff&sideLabels=888888&dates=555555" height="150"/>
 
 <br/><br/>
 
