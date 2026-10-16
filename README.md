@@ -32,7 +32,7 @@
 * Exploring **local agents that operate real infrastructure**: Kubernetes ([PodMedic](https://github.com/mostaphaelansari/PodMedic)), browsers, and code review, always with human-approval guardrails.
 * Into **MLOps**: automated model promotion, Kubeflow pipelines, MLflow tracking, and CI/CD for models.
 * Re-implementing **ML papers from scratch**, because using ≠ understanding.
-* Based in **Fez, Morocco**.
+* Based in **Nice,France**.
 * Open to chat about LLMs, agents, or MLOps. **[Email me](mailto:elansarimostapha011@gmail.com)**.
 
 <details>
